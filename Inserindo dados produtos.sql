@@ -1,0 +1,16 @@
+use lojaprodutos;
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(190, 2, "LEITE CONDENSADO NESTLÉ", "25/12/2010", 50.10);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(200, 1, "LEITE CONDENSADO ITAMBÉ", "20/12/2010", 40.00);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(210, 1, "LEITE CAIXA 1L PIRACANJUBA", "22/12/2010", 15.50);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(220, 1, "LEITE CAIXA 1L NINHO", "21/12/2010", 20.75);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(230, 2, "AÇÚCAR REFINADO BRANCA DE NEVE", "15/12/2010", 6.80);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(240, 2, "ARROZ TIO JORGE 5KG", "18/12/2010", 30.20);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(250, 2, "CAFÉ MOÍDO E EMBALADO A VÁCUO", "01/12/2010", 5.65);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(260, 2, "CAFÉ MOÍDO MARATÁ", "28/12/2010", 4.20);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(270, 1, "CAFÉ MOÍDO MAMORÉ", "10/12/2010", 6.00);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(280, 1, "AÇÚCAR REFINADO IRIS", "06/12/2010", 5.00);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(290, 2, "BISCOITO 3 EM 1 RANCHEIRO", "06/12/2010", 10.00);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(300, 1, "BISCOITO 3 EM 1 FORTALEZA", "04/12/2010", 9.80);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(310, 2, "MANTEIGA EM LATA REAL", "03/12/2010", 25.00);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(320, 2, "BISCOITO RECHEADO MORANGO", "01/12/2010", 3.99);
+insert into tb_produtos(id, codLoja, descricaoProduto, dataInclusaoProduto, precoProduto) values(330, 1, "MANTEIGA DE 1 QUALIDADE EMBUAR", "01/12/2010", 30.00);
